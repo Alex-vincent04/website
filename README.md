@@ -39,23 +39,19 @@ open the html file in a browser
 
 
 # Screenshots (Add at least 3)
-![Screenshot1]![Screenshot 2024-10-26 114949](https://github.com/user-attachments/assets/93e89a9f-298a-4cee-b43a-f23c7b1e37f5)
-*initial prototype: implemented the graph and location markers*
+[Screenshot 1]
+![Screenshot 2024-10-26 121530](https://github.com/user-attachments/assets/1e7fb82c-ea8a-4405-b2cb-c3c0ade1d542)
+*setting the initial boarding point*
 
+[screenshot 2]
+![Screenshot 2024-10-26 121608](https://github.com/user-attachments/assets/be87792d-e674-4b45-8ff6-144e33421223)
+*setting the destination*
 
-![Screenshot2]![Screenshot 2024-10-26 114930](https://github.com/user-attachments/assets/3aeeb8db-c27f-4908-853d-b52113446317)
-*Integrated routing features from one destination to another*
-
-
-![Screenshot3]![Screenshot 2024-10-26 115050](https://github.com/user-attachments/assets/d15e7ce8-620b-4a85-9dcb-0885ac881a1b)
-*Made the markers moveable and update locations in real time*
-
-
-# Diagrams
-not applicable
+[screenshot 3]
+![Screenshot 2024-10-26 121712](https://github.com/user-attachments/assets/9bcde4b3-f9f3-4a8c-aca5-afda183f432a)
+*calculating the route*
 
 ### Project Demo
-
 https://github.com/user-attachments/assets/dd86824c-495f-4ce3-b2a4-35625b8de1a5
 
 
