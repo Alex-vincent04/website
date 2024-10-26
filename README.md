@@ -1,95 +1,66 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
-
+# School Bus Tracking System 🎯
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: PROcastinators
+
+## Team Members
+- Team Lead: Ansel Sajan - Viswajyothi College of Engineering and Technology
+- Member 2: Alex Vincent - Viswajyothi College of Engineering and Technology
+- Member 3: Bharat M R - Viswajyothi College of Engineering and Technology
+
+## Project Description
+This project is a website for tracking school/college bus locations in real-time. It utilizes Leaflet to display maps and OpenStreetMap for map data and routing.
+
+## The Problem (that doesn't exist)
+Ever wondered where your bus is while you’re anxiously waiting? We’ve tackled the urgent crisis of parents worrying about their kids' bus locations with an innovative solution!
+
+## The Solution (that nobody asked for)
+Introducing our tracking system that not only tells you where the bus is but also provides an exhilarating mapping experience. It’s like watching your bus race against time, all from the comfort of your phone!
 
 
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
-### Project Description
-[2-3 lines about what your project does]
-
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
-## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
+## Project Documentation
+For Software:HTML, CSS, JS
+FRAMEWORKS: Leaflet.js, Express.js
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Not applicable for this project (software only)
 
-### Implementation
-For Software:
+
+# Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo-url.git
+
 # Installation
 [commands]
 
 # Run
 [commands]
 
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]![Screenshot 2024-10-26 114949](https://github.com/user-attachments/assets/93e89a9f-298a-4cee-b43a-f23c7b1e37f5)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]![Screenshot 2024-10-26 114930](https://github.com/user-attachments/assets/3aeeb8db-c27f-4908-853d-b52113446317)
+
+![Screenshot3]![Screenshot 2024-10-26 115050](https://github.com/user-attachments/assets/d15e7ce8-620b-4a85-9dcb-0885ac881a1b)
+
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+not applicable
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+https://github.com/user-attachments/assets/dd86824c-495f-4ce3-b2a4-35625b8de1a5
+
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+ Ansel Sajan: handeled the designs and the came up with possible flowcharts
+ Alex Vincent: Played a vital role in implementing the software and suggesting possible frameworks to use
+ Bharat M R: Came up with the idea and helped in debugging
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
