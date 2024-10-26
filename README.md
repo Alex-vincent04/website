@@ -41,11 +41,15 @@ For Hardware:
 
 # Screenshots (Add at least 3)
 ![Screenshot1]![Screenshot 2024-10-26 114949](https://github.com/user-attachments/assets/93e89a9f-298a-4cee-b43a-f23c7b1e37f5)
+*initial prototype: implemented the graph and location markers*
 
 
 ![Screenshot2]![Screenshot 2024-10-26 114930](https://github.com/user-attachments/assets/3aeeb8db-c27f-4908-853d-b52113446317)
+*Integrated routing features from one destination to another*
+
 
 ![Screenshot3]![Screenshot 2024-10-26 115050](https://github.com/user-attachments/assets/d15e7ce8-620b-4a85-9dcb-0885ac881a1b)
+*Made the markers moveable and update locations in real time*
 
 
 # Diagrams
@@ -60,7 +64,7 @@ https://github.com/user-attachments/assets/dd86824c-495f-4ce3-b2a4-35625b8de1a5
 ## Team Contributions
  Ansel Sajan: handeled the designs and the came up with possible flowcharts
  Alex Vincent: Played a vital role in implementing the software and suggesting possible frameworks to use
- Bharat M R: Came up with the idea and helped in debugging
+ Bharat M R: Came up with the idea and helped with debugging and installing dependencies
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
