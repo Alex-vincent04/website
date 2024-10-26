@@ -23,8 +23,6 @@ Introducing our tracking system that not only tells you where the bus is but als
 ## Project Documentation
 For Software:HTML, CSS, JS
 FRAMEWORKS: Leaflet.js, Express.js
-For Hardware:
-- Not applicable for this project (software only)
 
 
 # Installation
