@@ -1,3 +1,4 @@
+//script.js
 let map, marker;
 const statusBar = document.getElementById("status");
 
@@ -25,7 +26,7 @@ function updateStatus(message, statusType) {
 // Fetch and update bus location
 async function updateBusLocation(busId) {
     try {
-        const response = await fetch('/getLocation?busId=${busId}');
+        const response = await fetch(`http://localhost:5500/getLocation?busId=${busId}`);
         const data = await response.json();
 
         if (data.latitude && data.longitude) {
@@ -47,7 +48,7 @@ async function loadMap() {
     updateStatus("Loading bus location...", "loading");
 
     try {
-        const response = await fetch('/getLocation?busId=${busId}');
+        const response = await fetch(`http://localhost:5500/getLocation?busId=${busId}`);
         const data = await response.json();
 
         if (data.latitude && data.longitude) {
@@ -58,7 +59,7 @@ async function loadMap() {
         }
     } catch (error) {
         updateStatus("Error loading map. Check connection.", "error");
-        console.error("Error loading map:", error);
+        console.log("Error loading map:", error);
     }
 }
 
