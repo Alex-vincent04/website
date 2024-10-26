@@ -6,7 +6,7 @@ const PORT = 5500;
 
 // Enable CORS to allow requests from specified origins
 app.use(cors({
-    origin: ['http://127.0.0.1:5500', 'http://localhost:5501'] // Allow both origins
+    origin: ['http://127.0.0.1:5500', 'http://127.0.0.1:5501'] // Allow both origins
 }));
 
 // Serve static files from the "public" folder
