@@ -31,10 +31,11 @@ FRAMEWORKS: Leaflet.js, Express.js
    git clone https://github.com/your-repo-url.git
 
 # Installation
-[commands]
+not required
 
 # Run
-[commands]
+use node to start a server in the port in the server folder
+open the html file in a browser
 
 
 # Screenshots (Add at least 3)
