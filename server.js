@@ -1,7 +1,7 @@
 // server.js
 const express = require('express');
 const app = express();
-const PORT = 3002;
+const PORT = 'https://alex-vincent04.github.io/getLocation';
 
 app.use(express.static('public'));
 
