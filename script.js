@@ -4,7 +4,7 @@ const statusBar = document.getElementById("status");
 let boardingPoint, destinationPoint;
 
 // OpenRouteService API Key
-const ORS_API_KEY = '5b3ce3597851110001cf6248c459bdac368a445bb0bc34747144bc35';
+const ORS_API_KEY = API_KEY;
 
 // Initialize the map
 function initMap(latitude, longitude) {
